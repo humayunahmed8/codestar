@@ -4,8 +4,8 @@ A Lightweight and easy-to-use WordPress Options Framework. It is a free framewor
 ## Screenshot
 [![Codestar Framework Screenshot](http://codestarframework.com/assets/images/framework/screenshot.png)](http://codestarframework.com/assets/images/framework/screenshot-1.png)
 
-## [Documentation](https://web.archive.org/web/20180820194539/http://codestarframework.com/documentation/)
-Read the documentation for details [documentation](https://web.archive.org/web/20180820194539/http://codestarframework.com/documentation/)
+## [Documentation](https://codestar.vercel.app)
+Read the documentation for details [documentation](https://codestar.vercel.app)
 
 ## Installation
 ##### A) Usage as Theme
@@ -30,7 +30,7 @@ require_once get_template_directory() .'/cs-framework/cs-framework.php';
 * Active Codestar Framework plugin from wordpress plugins panel
 * Yay! Right now you are ready to configure framework, metaboxes, taxonomies, wp customize, shortcoder
 * Take a look for config files from `wp-content/plugins/cs-framework/config` folder also you can manage config files from theme directory. see overriding files method.
-* Read for more from [documentation](https://web.archive.org/web/20180820194539/http://codestarframework.com/documentation/)
+* Read for more from [documentation](https://codestar.vercel.app)
 
 ## Enable - Disable Mods
 Add define code on your `themename/functions.php` directly.
