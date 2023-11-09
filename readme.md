@@ -1,9 +1,6 @@
 # Codestar Framework
 A Lightweight and easy-to-use WordPress Options Framework. It is a free framework for building theme options. Save your time!
 
-## Screenshot
-[![Codestar Framework Screenshot](http://codestarframework.com/assets/images/framework/screenshot.png)](http://codestarframework.com/assets/images/framework/screenshot-1.png)
-
 ## [Documentation](https://codestar.vercel.app)
 Read the documentation for details [documentation](https://codestar.vercel.app)
 
@@ -49,10 +46,6 @@ Add the following define code somewhere in your theme or plugin, and light theme
 ```php
 define( 'CS_ACTIVE_LIGHT_THEME',  true  ); // default false
 ```
-
-### Light Theme Screenshot
-
-[![Codestar Framework Screenshot](http://codestarframework.com/assets/images/framework/screenshot-light-1.png)](http://codestarframework.com/assets/images/framework/screenshot-light-1.png)
 
 ## Overriding Files
 You can override an existing file without change `themename/cs-framework` folder. just create one `themename/cs-framework-override` folder on your theme directory. for eg:
@@ -110,9 +103,6 @@ themename/cs-framework-override/fields/text/text.php
 Codestar Framework is **free** to use both personal and commercial. If you used commercial, **please credit**.
 Read more about GNU [license.txt](http://www.gnu.org/licenses/gpl-2.0.txt)
 
-## Credits
-Thanks for guys! Please read [credits](http://codestarframework.com/credits/). If you would like to contribute please fork the project and [report bugs](https://github.com/Codestar/codestar-framework/issues) or submit [pull requests](https://github.com/Codestar/codestar-framework/pulls)</a>.
-
 ## The Latest Updates
 #### 1.0.2
 - Added: Support for WP Nav Menus select
@@ -143,8 +133,3 @@ Thanks for guys! Please read [credits](http://codestarframework.com/credits/). I
 - Removed: custom/callback function support for field options
 
 See [changelog](CHANGELOG.md)
-
----
-
-##### Using Codestar Framework Themes
-[![Route Responsive Multi-Purpose WordPress Theme](http://s3.codestarthemes.com/route/userbox/route-preview-promo.png)](http://themeforest.net/item/route-responsive-multipurpose-wordpress-theme/8815770?ref=Codestar)
